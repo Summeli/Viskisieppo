@@ -3,6 +3,10 @@ Viskisieppo
 
 Avaa viskisivut suomalaisille
 
+License
+-------
+Standard MIT-license. See LICENSE for details
+
 Credits
 -------
 * Antti Pohjola [summeli] koodi
