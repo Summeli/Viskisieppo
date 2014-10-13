@@ -1,0 +1,16 @@
+{
+	"name": "Viski Sieppo",
+	"version": "1.0.0",
+	"manifest_version": 2,
+	"description": "Poistaa viskisivujen estot suomalaisilta",
+	"homepage_url": "http://summeli.fi/",
+	"permissions": [
+		"webRequest",
+		"webRequestBlocking",
+		"*://*.glenmorangie.com/*"
+	],
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": true
+	}
+}
