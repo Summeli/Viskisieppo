@@ -3,6 +3,10 @@ Viskisieppo
 
 Avaa viskisivut suomalaisille
 
+Download
+-------
+You can download this plugin from [market]
+
 License
 -------
 Standard MIT-license. See LICENSE for details
@@ -15,3 +19,4 @@ Credits
 
 [icon8]: http://icons8.com/ "Icons8 homepage"
 [summeli]: http://summeli.fi "summeli.fi"
+[market]: https://chrome.google.com/webstore/detail/viskisieppo/dgmcbnhfgeejfapefklhjpilfiholhcc?hl=fi "chrome marketplace"
