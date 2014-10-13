@@ -15,7 +15,6 @@ chrome.webRequest.onBeforeSendHeaders.addListener(function(details) {
 		}
 	}
 	if(!header_set){
-		console.log("uusi!");
 		headers.push({name:"X-Forwarded-for",value:"12.13.14.15"});
 	}
 	return {requestHeaders: headers};
